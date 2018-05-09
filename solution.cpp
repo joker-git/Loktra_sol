@@ -15,6 +15,6 @@ string reverseHash(long num){                           //function to find rever
 int main() {
 	long num = 930846109532517;                         //here num is the hash for which reverse is to be found
 	string ans = reverseHash(num);                      //you can take it as an input using cin>>num;
-	cout<<ans<<endl;
+	cout<<ans<<endl;				    //solution for this hash "lawnmower"
 	return 0;
 }
